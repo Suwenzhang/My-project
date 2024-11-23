@@ -1,2 +1,2 @@
-# pre_trained
-data distillation Model
+这是我的个人项目汇总，包括实用性工具
+
